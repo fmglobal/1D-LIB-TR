@@ -1,6 +1,6 @@
 # 1D-LIB-TR: A one-dimensional solver for thermal runaway in a lithium-ion battery pouch cell
 
-The use of this software is governed by the license file contained within its original repository, available here: [License file](https://github.com/fmglobal/1D-LIB-TR/blob/e616726555797269425b4865fb01cd5e88620959/LICENSE)
+The use of this software is governed by the license file contained within its original repository, available here: [License file](https://github.com/fmglobal/1D-LIB-TR/blob/57549ec87f338b8554b3a5f84ef95029e994bce9/LICENSE)
 
 This notebook solves the governing equations set out in the paper:
 

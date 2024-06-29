@@ -4,7 +4,7 @@ The use of this software is governed by the license file contained within its or
 
 This notebook solves the governing equations set out in the paper:
 
-*"Modeling initiation and propagation of thermal runaway in pouch Li-ion battery cells: effects of heating rate and state-of-charge"*,\
+*"[Modeling initiation and propagation of thermal runaway in pouch Li-ion battery cells: effects of heating rate and state-of-charge](https://doi.org/10.1016/j.proci.2024.105316)"*,\
 Dong Zeng, Danyal Mohaddes, Lauren Gagnon and Yi Wang,\
 Proceedings of the Combustion Institute, 2024.
 
